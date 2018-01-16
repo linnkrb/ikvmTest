@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=Pierce Boggan</PackageIdentityPublisher>
-    <IntermediateOutputPath>c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\GIT\ikvmTest\App2\App2.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\GIT\ikvmTest\App2\App2.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>D009F199152CA30970A1E0BB5118DAE9895BD09C915967521CBAA46EA032D98C</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>ec0cc741-fd3e-485c-81be-68815c480690_1.0.0.0_x86__hma5z8g0e8z20</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>ec0cc741-fd3e-485c-81be-68815c480690_hma5z8g0e8z20!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\GIT\ikvmTest\App2\App2.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-15T14:28:59.482</Modified>
+      <Modified>2018-01-16T11:56:37.878</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\bin\x86\Debug\App2.UWP.exe">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\bin\x86\Debug\App2.UWP.exe">
       <PackagePath>entrypoint\App2.UWP.exe</PackagePath>
-      <Modified>2018-01-15T14:28:57.283</Modified>
+      <Modified>2018-01-16T11:56:34.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\linnkristin\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.0.1\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -719,181 +719,185 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2017-11-28T01:07:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2\bin\Debug\netstandard2.0\App2.dll">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2\bin\Debug\netstandard2.0\App2.dll">
       <PackagePath>App2.dll</PackagePath>
-      <Modified>2018-01-15T14:28:48.277</Modified>
+      <Modified>2018-01-16T11:56:22.454</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2\bin\Debug\netstandard2.0\PayPoint.dll">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2\bin\Debug\netstandard2.0\PayPoint.dll">
       <PackagePath>PayPoint.dll</PackagePath>
       <Modified>2018-01-11T19:25:44.903</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2\bin\Debug\netstandard2.0\IKVM.Runtime.dll">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2\bin\Debug\netstandard2.0\IKVM.Runtime.dll">
       <PackagePath>IKVM.Runtime.dll</PackagePath>
       <Modified>2012-12-06T08:53:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2\bin\Debug\netstandard2.0\IKVM.OpenJDK.Util.dll">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2\bin\Debug\netstandard2.0\IKVM.OpenJDK.Util.dll">
       <PackagePath>IKVM.OpenJDK.Util.dll</PackagePath>
       <Modified>2012-12-06T08:52:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2\bin\Debug\netstandard2.0\IKVM.OpenJDK.Core.dll">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2\bin\Debug\netstandard2.0\IKVM.OpenJDK.Core.dll">
       <PackagePath>IKVM.OpenJDK.Core.dll</PackagePath>
       <Modified>2012-12-06T08:52:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2\bin\Debug\netstandard2.0\IKVM.OpenJDK.Text.dll">
+      <PackagePath>IKVM.OpenJDK.Text.dll</PackagePath>
+      <Modified>2012-12-06T08:52:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-01-15T14:04:49.103</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\LockScreenLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\LockScreenLogo.scale-100.png">
       <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
       <Modified>2018-01-15T14:04:48.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\LockScreenLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\LockScreenLogo.scale-125.png">
       <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
       <Modified>2018-01-15T14:04:48.253</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\LockScreenLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\LockScreenLogo.scale-150.png">
       <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
       <Modified>2018-01-15T14:04:48.257</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-01-15T14:04:48.264</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\LockScreenLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\LockScreenLogo.scale-400.png">
       <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
       <Modified>2018-01-15T14:04:48.268</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.279</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.283</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.289</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.295</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.305</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.630</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.640</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.644</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.647</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.656</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.659</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.662</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.667</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.677</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.681</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.687</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.692</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:49.049</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:49.052</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:48.696</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:49.057</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:49.062</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:49.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:49.080</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:49.084</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-15T14:04:49.089</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\bin\x86\Debug\App2.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\bin\x86\Debug\App2.UWP.xr.xml">
       <PackagePath>App2.UWP.xr.xml</PackagePath>
       <Modified>2018-01-15T14:10:04.567</Modified>
     </AppxPackagedFile>
@@ -905,14 +909,14 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2017-11-28T01:07:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-15T14:28:58.757</Modified>
+      <Modified>2018-01-16T11:56:36.657</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\bin\x86\Debug\Core\App2.UWP.exe">
+    <AppxPackagedFile Include="C:\GIT\ikvmTest\App2\App2.UWP\bin\x86\Debug\Core\App2.UWP.exe">
       <PackagePath>App2.UWP.exe</PackagePath>
-      <Modified>2018-01-15T14:28:59.468</Modified>
+      <Modified>2018-01-16T11:56:37.858</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

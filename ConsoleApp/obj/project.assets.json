@@ -760,11 +760,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\Users\\linnkristin\\Source\\Repos\\App2\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\GIT\\ikvmTest\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "c:\\Users\\linnkristin\\Source\\Repos\\App2\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "C:\\GIT\\ikvmTest\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\linnkristin\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\linnkristin\\Source\\Repos\\App2\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\GIT\\ikvmTest\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

@@ -10,3 +10,15 @@ c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.
 c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\GIT\ikvmTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\GIT\ikvmTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\GIT\ikvmTest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\GIT\ikvmTest\ConsoleApp1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\GIT\ikvmTest\ConsoleApp1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\GIT\ikvmTest\ConsoleApp1\bin\Debug\PayPoint.dll
+C:\GIT\ikvmTest\ConsoleApp1\bin\Debug\IKVM.Runtime.dll
+C:\GIT\ikvmTest\ConsoleApp1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\GIT\ikvmTest\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\GIT\ikvmTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\GIT\ikvmTest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\GIT\ikvmTest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

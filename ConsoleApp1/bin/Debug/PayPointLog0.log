@@ -1,0 +1,26 @@
+2018.01.16 13:33:14.860 SEVERE  Connect failed
+java.net.ConnectException: Connection refused: connect
+	at java.net.net_util_md.NET_ThrowNew(net_util_md.java:165)
+	at java.net.net_util_md.NET_ThrowNew(net_util_md.java:175)
+	at java.net.DualStackPlainSocketImpl_c.waitForConnect(DualStackPlainSocketImpl_c.java:220)
+	at java.net.DualStackPlainSocketImpl.waitForConnect(DualStackPlainSocketImpl.java:259)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:72)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:341)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:202)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:183)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at no.point.paypoint.a.f(SourceFile:435)
+	at no.point.paypoint.a.a(SourceFile:386)
+	at no.point.paypoint.a.run(SourceFile:1364)
+	at java.lang.Thread.run(Thread.java:937)
+2018.01.16 13:33:15.068 WARNING Local resp:Brudd med terminal
+Sending feilet.
+Feil:3
+2018.01.16 13:33:23.407 SEVERE  Shutdown output stream failed
+java.net.SocketException: Socket is not connected
+	at java.net.Socket.shutdownOutput(Socket.java:1486)
+	at no.point.paypoint.a.g(SourceFile:716)
+	at no.point.paypoint.a.run(SourceFile:248)
+	at java.lang.Thread.run(Thread.java:937)

@@ -21,6 +21,11 @@ namespace ConsoleAppPayex
 
         private static void NewMethod()
         {
+
+            try
+            {
+
+       
             PayPoint pim = new PayPoint();
 
             var ip = "192.168.10.131";
@@ -30,19 +35,15 @@ namespace ConsoleAppPayex
 
             pim.open(ip, 0, "point_", 3);
 
-
-
-            //pim.startTestCom();
-
-
-            int res = 0;
-            int amtTotal = 200, amtPurchase = 200;
-
-            pim.startTransaction((byte)transTypes.TRANS_TEST, amtTotal, amtPurchase, (byte)transModes.MODE_NORMAL);
-            if (res != 0)
+            pim.startTestCom();
+            }
+            catch (Exception ex)
             {
 
+                Console.WriteLine(ex.StackTrace);
             }
+
+
         }
 
         public class TestListner : PayPointListener

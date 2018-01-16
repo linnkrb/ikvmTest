@@ -739,11 +739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\linnkristin\\Source\\Repos\\App2\\App2\\App2.Android\\App2.Android.csproj",
+      "projectUniqueName": "C:\\GIT\\ikvmTest\\App2\\App2.Android\\App2.Android.csproj",
       "projectName": "App2.Android",
-      "projectPath": "c:\\users\\linnkristin\\Source\\Repos\\App2\\App2\\App2.Android\\App2.Android.csproj",
+      "projectPath": "C:\\GIT\\ikvmTest\\App2\\App2.Android\\App2.Android.csproj",
       "packagesPath": "C:\\Users\\linnkristin\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\linnkristin\\Source\\Repos\\App2\\App2\\App2.Android\\obj\\",
+      "outputPath": "C:\\GIT\\ikvmTest\\App2\\App2.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -764,8 +764,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "c:\\users\\linnkristin\\Source\\Repos\\App2\\App2\\App2\\App2.csproj": {
-              "projectPath": "c:\\users\\linnkristin\\Source\\Repos\\App2\\App2\\App2\\App2.csproj"
+            "C:\\GIT\\ikvmTest\\App2\\App2\\App2.csproj": {
+              "projectPath": "C:\\GIT\\ikvmTest\\App2\\App2\\App2.csproj"
             }
           }
         }
