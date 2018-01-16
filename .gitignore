@@ -1,3 +1,20 @@
+# Autosave files 
+*~  
+ 
+# Visual Studio 2017 cache/options directory 
+.vs/ 
+ 
+# Build Results 
+[Dd]ebug/ 
+[Dd]ebugPublic/ 
+[Rr]elease/ 
+[Rr]eleases/ 
+x64/ 
+x86/ 
+bld/ 
+[Oo]bj/ 
+
+
 App2/App2/obj/Debug/netstandard2.0/App2.pdb
 *.pdb
 .vs/App2/v15/.suo
