@@ -1,0 +1,12 @@
+c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\bin\Debug\IKVM.OpenJDK.Core.dll
+c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\bin\Debug\PayPoint.dll
+c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\bin\Debug\IKVM.Runtime.dll
+c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\bin\Debug\IKVM.OpenJDK.Util.dll
+c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+c:\Users\linnkristin\Source\Repos\App2\ConsoleApp1\bin\Debug\IKVM.OpenJDK.Text.dll

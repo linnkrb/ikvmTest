@@ -1,0 +1,1 @@
+c:\users\linnkristin\Source\Repos\App2\App2\App2.UWP\App2.UWP.csproj;x86
